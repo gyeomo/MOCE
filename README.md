@@ -29,6 +29,7 @@ When setup is complete, run with this:
 python main.py
 
 # Acknowledgement
+```
 @inproceedings{ghorbani2019towards,
   title={Towards automatic concept-based explanations},
   author={Ghorbani, Amirata and Wexler, James and Zou, James Y and Kim, Been},
@@ -36,10 +37,12 @@ python main.py
   pages={9273--9282},
   year={2019}
 }
-
+```
+```
 @inproceedings{netdissect2017,
   title={Network Dissection: Quantifying Interpretability of Deep Visual Representations},
   author={Bau, David and Zhou, Bolei and Khosla, Aditya and Oliva, Aude and Torralba, Antonio},
   booktitle={Computer Vision and Pattern Recognition},
   year={2017}
 }
+```
