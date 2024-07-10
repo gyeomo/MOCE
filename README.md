@@ -2,6 +2,8 @@
 
 What Does a Model Really Look at?: Extracting Model-Oriented Concepts for Explaining Deep Neural Networks
 
+https://ieeexplore.ieee.org/document/10412652
+
 Accepted in IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
 
 # Requirements
