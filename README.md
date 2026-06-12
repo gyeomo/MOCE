@@ -8,7 +8,7 @@ Accepted in IEEE Transactions on Pattern Analysis and Machine Intelligence ([TPA
 
 
 <p align="center">
-  <img src="image.png" width="700">
+  <img src="image.png" width="900">
 </p>
 
 
